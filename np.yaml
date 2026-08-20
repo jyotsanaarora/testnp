@@ -8,3 +8,4 @@ metadata:
 spec:
   config:
     - name: infra-dynamic-node
+    - name: test-cm
